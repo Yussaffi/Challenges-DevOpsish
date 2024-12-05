@@ -8,7 +8,8 @@ Using the provided JSON file, implement the following:
 
 3. Generate a cost report: total s3 buckets cost grouped by region and department. 
 
-Highlight buckets with:
+ ***Highlight buckets with:***
+
 > Size > 50 GB: Recommend cleanup operation ;
 
 > Size > 100 GB and not accessed in 20+ days: Add these to a deletion queue.
