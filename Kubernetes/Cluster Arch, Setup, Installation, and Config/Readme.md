@@ -1,7 +1,7 @@
 ```Markdown
 
 # 25
-> Day 1–7:
+>Day 1–7:
 
 
 
